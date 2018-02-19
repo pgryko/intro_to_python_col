@@ -12,3 +12,6 @@ The workshop will be given in English, with translation into Spanish.
 We particularly want to encourage women to attend, to improve the diversity of the software community.
 
 This talk/workshop was given in Medellin Colombia on Saturday 24th of February
+
+Note: project is hosted on gitlab and mirrored to github. Any pull requests should be
+pushed to https://gitlab.com/pgryko/intro_to_python_col
